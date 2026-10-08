@@ -174,8 +174,8 @@ This option is available when the target array is a field inside the output, whe
 <ThemedImage
     alt="Map using Custom Function generating a function between an input array and an output array"
     sources={{
-        light: useBaseUrl('/img/develop/integration-artifacts/supporting/data-mapper/map-with-custom-function.gif'),
-        dark: useBaseUrl('/img/develop/integration-artifacts/supporting/data-mapper/map-with-custom-function.gif'),
+        light: useBaseUrl('/img/develop/integration-artifacts/supporting/data-mapper/map-with-custom-function-array.gif'),
+        dark: useBaseUrl('/img/develop/integration-artifacts/supporting/data-mapper/map-with-custom-function-array.gif'),
     }}
 />
 
